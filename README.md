@@ -33,12 +33,5 @@ git clone https://github.com/your-username/Bank-Management-System.git
 Login.java
 ```
 
-## 📸 Screenshots
-Add screenshots of:
-- Login Page
-- Registration Page
-- ATM Screen
-- Mini Statement
-
 ## 👨‍💻 Author
 Ahmad Shaikh
